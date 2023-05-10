@@ -6,7 +6,7 @@ const navigationLinks = [
   { name: 'Home', router: '/' },
   { name: 'Atividades', router: '/activities' },
   { name: 'Sobre', router: '/about' },
-  { name: 'Projeto', router: '/project' }
+  { name: 'Projeto', router: 'https://lactoseonline.vercel.app/' }
 ]
 
 const Header: React.FC = () => {
