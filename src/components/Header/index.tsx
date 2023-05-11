@@ -4,7 +4,7 @@ import React from 'react'
 const navigationLinks = [
   { name: 'Home', router: '/' },
   { name: 'Atividades', router: '/activities' },
-  { name: 'Sobre', router: '/about' },
+  /*  { name: 'Sobre', router: '/about' }, */
   { name: 'Projeto', router: 'https://lactoseonline.vercel.app/' }
 ]
 
